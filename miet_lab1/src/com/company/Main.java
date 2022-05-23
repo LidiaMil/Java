@@ -3,10 +3,6 @@ package com.company;
 import java.util.Properties; //Подключаем пакет Properties
 import java.util.Scanner;
 
-/**
- * @ author mJaJksJ
- * @ version 26.09.2020
- */
 public class Main {
 
     static Properties properties;
