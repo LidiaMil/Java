@@ -7,10 +7,6 @@ import com.company.model.database.db;
 
 import javax.swing.*;
 
-/**
- * @author Max Myasikov PIN-34
- * @version lab2
- */
 public class Main {
 
     public static void main(String[] args) throws Exception {
